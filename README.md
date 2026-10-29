@@ -16,6 +16,10 @@
 
 ---
 
+## 🌐 Live Demo
+
+Try NoteFlow right now in your browser: **[noteflow-one.vercel.app](https://noteflow-one.vercel.app/)**
+
 ## 📖 About
 
 **NoteFlow** is a modern notes app built with React and Vite. Write down your thoughts, pin the important ones, search through everything in seconds, and switch between light and dark themes. There is no sign-up and no backend: your notes are saved right in your browser, so they are always there when you come back.
